@@ -1,7 +1,9 @@
 
-# 🧠 DevTracka - VSCode Productivity Tracker
+# 🧠 DevTracka VSCode Xtension
 
-**DevTracka** is a lightweight VSCode extension designed to automatically track your coding activity across workspaces. Stay aware of how much time you're actively coding or debugging — no setup, no distractions.
+**DevTracka** is inspired by Wakatime. Will basically do everything wakatime does.
+There'll be a RESTAPI and ofcourse Dashboard.
+Using this project to test master javascript and vibe coding abilities, lol.
 
 ---
 
