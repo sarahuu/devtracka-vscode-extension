@@ -3,7 +3,8 @@
 
 **DevTracka** is inspired by Wakatime. Will basically do everything wakatime does.
 There'll be a RESTAPI and ofcourse Dashboard.
-Using this project to test master javascript and vibe coding abilities, lol.
+Using this project to learn javascript.
+Proper documentation coming up soon.
 
 ---
 
